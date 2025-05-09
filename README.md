@@ -8,7 +8,7 @@
 ## 🤝 Let’s Connect
 
 📬 Email:      justasecond241@gmail.com  
-🌐 LinkedIn:   linkedin.com/in/now-dylan-ondo-and-u
+🌐 LinkedIn:   linkedin.com/in/now-dylan-ondo-and-u/
 📍 Location:   Paris-Cachan, France  
 
 <--->
