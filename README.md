@@ -10,7 +10,7 @@
 
 📍 Location:   Paris-Cachan, France  
 📬 Email:      justasecond241@gmail.com  
-🌐 LinkedIn:   linkedin.com/in/now-dylan-ondo-and-u
+🌐 LinkedIn:   www.linkedin.com/in/now-dylan-ondo-and-u
 
 
 <--->
