@@ -7,9 +7,9 @@
 
 ## 🤝 Let’s Connect
 
-📬 Email: justasecond241@gmail.com  
-🌐 LinkedIn:linkedin.com/in/now-dylan-ondo-and-u
-📍 Location: Cachan, France  
+📬 Email:      justasecond241@gmail.com  
+🌐 LinkedIn:   linkedin.com/in/now-dylan-ondo-and-u
+📍 Location:   Paris-Cachan, France  
 
 <--->
 
@@ -19,7 +19,8 @@
 
 ## 💼 Experience Highlights
 
-### 🔍 SYSTRA – AI Developer Intern  
+### 🔍 SYSTRA – AI Developer Intern 
+https://www.systra.com/
 **Oct 2024 – May 2025 | Paris, France**  
 - Built a **collaborative internal platform** to boost team coordination and task tracking.  
 - Developed an **intelligent local chatbot** capable of querying Google APIs and automating responses.  
@@ -33,6 +34,7 @@
 - Designed dynamic dashboards for clear and impactful insight visualization.
 
 ### 🚴 Deliveroo X Dylan X AI – Delivery Optimization Project  
+https://deliveroo.fr/fr/about-us
 **Dec 2023 – Dec 2024 | Paris, France**  
 - Applied **algorithmic thinking to optimize delivery routes** and maximize earnings.  
 - Analyzed Deliveroo's **dispatch system** and integrated **real-time traffic variables**.  
